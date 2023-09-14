@@ -9,7 +9,7 @@ This Python program is another version of Russian roulette where your system is 
 ## Here are the rules:
     1. Just pick a number between 1 and 6.
 
-## Here's how to play::
+## Here's how to play:
     1. Make sure the latest version of Python is already installed.
     2. Clone this repository locally (anywhere you prefer, if possible, provide administrator access permissions).
     3. Run the Main.py program using your command line or any other method you find convenient.
