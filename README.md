@@ -1,6 +1,6 @@
 # OS-Roulette
 
-This Python program is another version of Russian roulette where your system is the stake. Want to give it a try? Keep reading.
+This Python program is another version of Russian roulette where your computer is the stake. Want to give it a try? Keep reading.
 
 <h1 style="text-align: center">⚠️WARNING⚠️</h1>
  <p style="text-align: center;color: red">Do it with a clear mind and good luck</p>
@@ -15,6 +15,7 @@ This Python program is another version of Russian roulette where your system is 
     3. Run the Main.py program using your command line or any other method you find convenient.
     4. The program will wait for your guessing number input.
     5. Enter your guessing number.
+    6. You lose if you guess the wrong number, and the system will shut down.
 
 <p style="color: yellow">There's a safety switch I've included just as a precaution. You should know how to turn it off if you want to play this game. &#128521</p>
 
